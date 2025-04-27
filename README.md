@@ -18,12 +18,12 @@ Transitioned from threaded to press-fit designs to simplify assembly and enhance
 
 ### Base Component Drawing
 <p align="center">
-  <img src="5-tip-base.jpg" alt="Base Drawing" width="600"/>
+  <img src="5-tip-base.jpg" alt="Base Drawing" width="800"/>
 </p>
 
 ### Tip Component Drawing
 <p align="center">
-  <img src="5-tip-tip.jpg" alt="Tip Drawing" width="600"/>
+  <img src="5-tip-tip.jpg" alt="Tip Drawing" width="800"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@ Developed a modular, press-fit assembly supporting five welding tips for simulta
 Designed an angled tip configuration for complex welding access, accommodating tight and misaligned honeycomb structures.
 
 <p align="center">
-  <img src="3tip_bent.jpg" alt="Angled Three-Tip Branch" width="600"/>
+  <img src="3tip_bent.jpg" alt="Angled Three-Tip Branch" width="400"/>
 </p>
 
 ---
