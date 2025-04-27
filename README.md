@@ -49,7 +49,7 @@ Designed an angled tip configuration for complex welding access, accommodating t
 ---
 <br>
 
-## Double-Tip Welding Holder — SolidWorks Assembly
+## Double-Tip Welding Holder — Fusion360 Assembly
 Designed for aerospace honeycomb tack welding. Consolidated welding tips to reduce cycle time and improve alignment consistency.
 
 <p align="center">
@@ -59,7 +59,7 @@ Designed for aerospace honeycomb tack welding. Consolidated welding tips to redu
 ---
 <br>
 
-## Torque Wrench Holder — SolidWorks Model
+## Torque Wrench Holder — Fusion360 Model
 Created for UCSD’s machine shop to provide a secure and visible mounting point for torque wrenches, enhancing tool organization and lab ergonomics.
 
 <p align="center">
