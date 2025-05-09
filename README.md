@@ -29,51 +29,23 @@ Transitioned from threaded to press-fit designs to simplify assembly and enhance
 ---
 
 ## Bending Mold for Tip Shaping  
-Designed a two-block mold to simultaneously bend all five welding tips. The setup ensures uniformity, angle control, and fast post-machining shaping.
+Designed a precision mold to simultaneously bend all five welding tips post-machining. The tool guarantees uniformity and fixed angles across tips.
 
 <p align="center">
-  <img src="Screenshot 2025-05-09 at 4.32.45 PM.png" alt="Mold Isometric View" width="600"/>
-</p>
-
-<p align="center">
-  <img src="Screenshot 2025-05-09 at 4.32.54 PM.png" alt="Mold Closed Side View" width="600"/>
-</p>
-
-<p align="center">
-  <img src="Screenshot 2025-05-09 at 4.33.18 PM.png" alt="Mold Closed Front View" width="600"/>
-</p>
-
-<p align="center">
-  <img src="Screenshot 2025-05-09 at 4.33.27 PM.png" alt="Mold Open - Tips Bent" width="600"/>
-</p>
-
-<p align="center">
-  <img src="Screenshot 2025-05-09 at 4.33.36 PM.png" alt="Mold Angled View" width="600"/>
+  <img src="mold_open_view.png" alt="Bending Mold CAD View" width="600"/>
 </p>
 
 ---
 
 ## Manufactured Result  
-After machining and press-fitting, the copper tip assembly was bent and finished using the mold above.
+Final copper tip assembly manufactured and shaped using the mold.
 
 <p align="center">
-  <img src="tips_real_1.jpg" alt="Copper Tip Front View" width="500"/>
+  <img src="tips_real_1.jpg" alt="Copper Tip Assembly" width="500"/>
 </p>
 
 <p align="center">
-  <img src="tips_real_2.jpg" alt="Copper Tip Side View" width="500"/>
-</p>
-
-<p align="center">
-  <img src="tips_real_3.jpg" alt="Copper Tip Angled View" width="500"/>
-</p>
-
-<p align="center">
-  <img src="tips_real_4.jpg" alt="Copper Tip Straight View" width="500"/>
-</p>
-
-<p align="center">
-  <img src="tip_real_bent.jpeg" alt="Bent Tips Final View" width="500"/>
+  <img src="tip_real_bent.jpeg" alt="Bent Tip Assembly" width="500"/>
 </p>
 
 ---
