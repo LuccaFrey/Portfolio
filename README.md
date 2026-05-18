@@ -1,6 +1,78 @@
 # Portfolio
 ## Lucca Nogueira Frey
-Mechanical engineer focused on design for manufacturability, CNC machining, and tooling development. This portfolio highlights selected projects spanning electrode system design, CAM programming, shop tooling, and rocket engine manufacturing.
+Mechanical engineer focused on design for manufacturability, CNC machining, tooling development, and manufacturing process optimization. This portfolio highlights selected projects spanning aerospace welding tooling, CNC manufacturing, CAM programming, shop tooling, and regeneratively cooled rocket engine machining.
+
+---
+
+# SEDS UCSD — Regeneratively Cooled Rocket Chamber
+**Rocket Propulsion Team — Team Machinist**
+
+Manufactured a regeneratively cooled rocket chamber prototype using CNC turning and 4th-axis machining operations. The chamber required deep internal boring, precision external contouring, and indexed slitting operations to create the regenerative cooling channels around the combustion chamber geometry.
+
+The manufacturing process combined TL-1 lathe operations for internal and external profiling with VF-2 4th-axis machining for the external cooling channels. Due to the chamber's length-to-diameter ratio and thin internal geometry, custom workholding and process adaptations were required to maintain rigidity and concentricity throughout machining.
+
+The external cooling channels were machined using indexed slitting operations on the 4th axis, requiring careful setup alignment and fixture design to maintain consistent channel spacing and surface finish across the full chamber profile.
+
+---
+
+## Engineering Drawing
+<p align="center">
+  <img src="regen-chamber-drawing.jpeg" alt="Rocket Chamber Engineering Drawing" width="750"/>
+</p>
+
+---
+
+## Chamber Before Cooling Channel Machining
+Initial external turning and contour profiling completed on the lathe before transitioning to 4th-axis machining operations.
+
+<p align="center">
+  <img src="chamber-before-grooving.jpeg" alt="Rocket Chamber Before Grooving" width="650"/>
+</p>
+
+---
+
+## VF-2 4th-Axis Setup
+Custom fixturing and tailstock support used during indexed slitting operations to machine the regenerative cooling channels.
+
+<p align="center">
+  <img src="vf2-4th-axis-setup.jpeg" alt="VF2 4th Axis Setup" width="650"/>
+</p>
+
+---
+
+## Cooling Channel Machining Close-Up
+Detail view of the regenerative cooling channels after 4th-axis slitting operations.
+
+<p align="center">
+  <img src="cooling-channels-closeup.jpeg" alt="Cooling Channels Close-Up" width="650"/>
+</p>
+
+---
+
+## Final Machined Chamber
+Completed aluminum prototype after contour profiling and regenerative cooling channel machining.
+
+<p align="center">
+  <img src="regen-chamber-final.jpeg" alt="Final Rocket Chamber" width="650"/>
+</p>
+
+---
+
+## TL-1 Internal Profiling Operations
+Deep internal boring and contour profiling operations performed on the TL-1 lathe.
+
+<p align="center">
+  <img src="tl1-internal-boring.jpeg" alt="TL1 Internal Profiling" width="650"/>
+</p>
+
+---
+
+## Manufacturing Challenges
+- Deep internal boring with limited rigidity due to the chamber's long internal geometry
+- Maintaining concentricity between internal bore and external cooling channels
+- Designing stable workholding for long 4th-axis machining operations
+- Managing thin-wall deformation during turning and slitting operations
+- Maintaining consistent cooling channel spacing across the full chamber contour
 
 ---
 
@@ -115,36 +187,3 @@ Designed a wall-mounted holder to keep torque wrenches visible, accessible, and 
 <p align="center">
   <img src="clamp_home.jpg" alt="Torque Wrench Holder" width="650"/>
 </p>
-
----
-
-# SEDS UCSD — Rocket Engine Manufacturing
-**Team Machinist — Rocket Propulsion Team**
-
-Manufacturing a regeneratively-cooled rocket engine from an existing design. The work involves CNC lathe operations for inner and outer contour profiling, 4th-axis slitting saw operations to cut the regenerative cooling channels, and custom fixture and tooling fabrication to support non-standard setups. Prototyping in aluminum before transitioning to copper for final production.
-
-<!-- Uncomment these image tags as you add photos to the repo:
-
-### After Lathe Profiling
-<p align="center">
-  <img src="rocket_lathe.jpg" alt="Rocket engine after lathe profiling" width="650"/>
-</p>
-
-### 4th-Axis Setup
-<p align="center">
-  <img src="rocket_4th_axis.jpg" alt="Rocket engine on 4th axis" width="650"/>
-</p>
-
-### Final Result
-<p align="center">
-  <img src="rocket_final.jpg" alt="Completed rocket engine" width="650"/>
-</p>
-
-### Custom Arbor Saw Holder
-<p align="center">
-  <img src="arbor_holder.jpg" alt="Custom arbor saw holder" width="650"/>
-</p>
-
--->
-
-*Photos coming soon.*
